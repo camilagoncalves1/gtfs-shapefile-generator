@@ -13,12 +13,12 @@ Este projeto tem como objetivo automatizar a conversão de arquivos GTFS (`.txt`
 ## 🗂️ Estrutura esperada de arquivos GTFS
 
 gtfs_rio-de-janeiro/
-├── stops.txt
-├── shapes.txt
-├── trips.txt
-├── routes.txt
-├── fare_rules.txt
-└── agency.txt
+├── stops.txt \
+├── shapes.txt \
+├── trips.txt \
+├── routes.txt \
+├── fare_rules.txt \
+└── agency.txt 
 
 ## 🚀 Como usar
 
@@ -39,6 +39,6 @@ Este exemplo usa os dados GTFS disponibilizados pela prefeitura do Rio de Janeir
 
 ## 👨‍💻 Autoria
 
-Script feito por Camila Gonçalves
-Mestranda em Sensoriamento Remoto - INPE
+Script feito por **Camila Gonçalves** \
+Mestranda em Sensoriamento Remoto - INPE \
 GitHub: @camilagoncalves1
