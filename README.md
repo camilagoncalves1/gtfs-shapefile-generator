@@ -37,6 +37,8 @@ gtfs_rio-de-janeiro/
 
 Este exemplo usa os dados GTFS disponibilizados pela prefeitura do Rio de Janeiro, mas o script pode ser adaptado para qualquer cidade ou base GTFS.
 
-## 📄 Licença
+👨‍💻 Autora
 
-Este projeto está sob a licença MIT.
+Script feito por Camila Gonçalves
+Mestranda em Sensoriamento Remoto - INPE
+GitHub: @camilagoncalves1
